@@ -18,6 +18,7 @@ const Footer = () => {
           </Col>
 
           {/* Quick Links */}
+          {/* {Something was added} */}
           <Col md={4} className="mb-4">
             <h5 className="fw-bold">Quick Links</h5>
             <ul className="list-unstyled">
@@ -28,7 +29,6 @@ const Footer = () => {
             </ul>
           </Col>
 
-          {/* Social Media */}
           <Col md={4} className="mb-4">
             <h5 className="fw-bold">Follow Us</h5>
             <div className="d-flex gap-3 fs-4">
