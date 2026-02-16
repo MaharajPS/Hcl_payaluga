@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MaharajPS/Hcl_payaluga/static/css/main.3b71cc2a.css",
+    "main.js": "/MaharajPS/Hcl_payaluga/static/js/main.e8bc72b7.js",
+    "static/js/453.050d48df.chunk.js": "/MaharajPS/Hcl_payaluga/static/js/453.050d48df.chunk.js",
+    "index.html": "/MaharajPS/Hcl_payaluga/index.html",
+    "main.3b71cc2a.css.map": "/MaharajPS/Hcl_payaluga/static/css/main.3b71cc2a.css.map",
+    "main.e8bc72b7.js.map": "/MaharajPS/Hcl_payaluga/static/js/main.e8bc72b7.js.map",
+    "453.050d48df.chunk.js.map": "/MaharajPS/Hcl_payaluga/static/js/453.050d48df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.e8bc72b7.js"
+  ]
+}
